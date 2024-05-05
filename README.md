@@ -1,5 +1,5 @@
-# TP4DPBO2024C2 - 
-**/* Saya Mohammad Faridz Fathin [2202680] mengerjakan TP4 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek (DPBO) untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin. */**
+# TP4DPBO2024C2 
+** Saya Mohammad Faridz Fathin [2202680] mengerjakan TP4 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek (DPBO) untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin. **
 
 **Desain Program:**
 
@@ -43,3 +43,16 @@ Program ini adalah sebuah aplikasi manajemen keanggotaan yang memungkinkan pengg
 - Setiap kontroler bertanggung jawab untuk memproses permintaan terkait dengan entitas yang sesuai.
 - Tampilan bertanggung jawab untuk menampilkan data dalam format yang sesuai dan mengarahkan ke halaman yang tepat berdasarkan permintaan pengguna.
 - Kelas DB bertanggung jawab untuk mengatur koneksi ke database.
+
+Dokumentasi
+![스크린샷 2024-05-05 124624](https://github.com/fridzfth/TP4DPBO2024C2/assets/140497713/b899a0b5-ff7a-40fc-8a59-50d65d8d87da)
+
+![스크린샷 2024-05-05 124614](https://github.com/fridzfth/TP4DPBO2024C2/assets/140497713/c658aac1-0dec-49ae-bad3-1cdf4681fcd8)
+
+![스크린샷 2024-05-05 124633](https://github.com/fridzfth/TP4DPBO2024C2/assets/140497713/590587f0-72a3-4e22-86bf-c8ce9136a4d5)
+
+
+https://github.com/fridzfth/TP4DPBO2024C2/assets/140497713/1ebd527d-3acc-4888-9eef-a24f18142812
+
+
+
